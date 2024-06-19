@@ -1,13 +1,24 @@
-Project Management Plan 
 Project Title: Exploring Regional House Price Dynamics and Property Type Trends in the UK Housing Market
- Research Question: What effects do property types and regional differences have on trends in house prices in   the UK housing market?
-Objective
-Analyze key statistics of the dataset –
-Compare and summarize sales numbers, price indices, and average house prices for the various UK regions.
-Compare Different Property Types: Compare and contrast the patterns found in various property types, including flats, terraced houses, semi-detached, and detached homes. 
-Determine Patterns and Trends: Do a time-series analysis to find long-term trends and seasonal patterns in home prices. 
-Evaluate the Purchase Methods: Examine the effects on home prices and sales volumes of buying with cash versus a mortgage. 
-Analyze the buying demographics: Examine the impact of first-time buyers (FTB) and former owner-occupiers (FOO) on the dynamics of the housing market and trends in house prices.
-Summary of project and background. 
-The housing market in the United Kingdom is complicated, with wide regional variations and a wide range of property kinds. To examine these dynamics, this project makes use of the UK House Price Index (HPI) dataset, which covers the years 1995 to 2024 for England and Wales, 2004 for Scotland, and 2005 for Northern Ireland. The study will offer a thorough analysis of regional average home prices, sales volumes, and price indices. The impact of cash versus mortgage purchases will be evaluated, and trends among various property types (detached, semi-detached, terraced, and flats) will be compared. It will also look at how first-time buyers and former owners-occupiers affect market trends to provide insightful information to housing market participants.
+ Overview of the Project
+The purpose of this research is to examine patterns and variables affecting UK home prices between 1995 and 2024. The project aims to investigate the factors that influence house prices, such as economic indicators, demographic shifts, and geographical differences, by utilising the UK House Price Index (HPI) dataset. The objective is to shed light on the dynamics of the UK housing market and pinpoint the main causes of changes in house prices.
 
+3. The Dataset's Description
+HM Land Registry's UK House Price Index (HPI) is the dataset utilised in this study. The following columns are included in it:
+Date
+Average Price
+House Price Index
+Detached Price
+Semi-Detached Price
+Terraced Price
+Flat/Maisonette Price
+New Price
+Existing Price
+Region Name
+Average Price SA (Seasonally Adjusted)
+House Price Index SA
+The data covers monthly house prices from 1995 to 2024 across various regions and property types in the UK.
+
+Contact Information for Further Assistance
+For further assistance, can contact me,
+
+Primary Contact: sakunthalamarasinghe@gmail.com
