@@ -24,7 +24,7 @@ region: Performing similar analysis for specific region.
 
 property_type: The type of property for which the analysis is carried out e.g. flat, terraced.
 
-model_params: These will be the parameters for which the prediction models will be adjusted eg: ARIMA, OLS regression.from 1995 to 2024 across various regions and property types in the UK.
+model_params: These will be the parameters for which the prediction models will be adjusted eg: ARIMA, OLS regression.across various regions and property types in the UK.
 
 Contact Information for Further Assistance
 For further assistance, can contact me,
